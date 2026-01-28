@@ -6,6 +6,9 @@ A friend of mine found a Studiomaster Trilogy 166 mixing desk at a tip sale, unf
 
 The original power supply, called EP7, takes mains power and spits out +/-17V (900mA) and 48V (100mA) through a 5-pin 240-degree dip jack. This is somewhat awkward, but I have a solution....
 
+<img width="1731" height="1065" alt="image" src="https://github.com/user-attachments/assets/bf8e5b11-61f2-42a1-aa7c-967da5fec144" />
+
+
 ## Solution
 
 I will take two +17V DC power supplies, and one +48V power supply, and build a circuit that combines these into the dip jack that my friend's mixing desk wants.
