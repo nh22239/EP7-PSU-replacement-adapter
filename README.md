@@ -15,3 +15,5 @@ I will take two +17V DC power supplies, and one +48V power supply, and build a c
 I have included a few additional features here, namely noise reduction on each power line, an on/off switch to help avoid lobsided power, a delay on the 48V line to stop any pops from this supply, and some resistors to discharge everything when powered off.
 
 Some of these additions may be useless, and there may be some sensible features that I have failed to put in, but at least this shouldn't break any of my friend's gear.
+
+<img width="1515" height="861" alt="EP7 PSU replacement" src="https://github.com/user-attachments/assets/f3785d11-7206-4851-9aab-a92b0c67b26a" />
