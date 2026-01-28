@@ -20,3 +20,5 @@ I have included a few additional features here, namely noise reduction on each p
 Some of these additions may be useless, and there may be some sensible features that I have failed to put in, but at least this shouldn't break any of my friend's gear.
 
 <img width="1515" height="861" alt="EP7 PSU replacement" src="https://github.com/user-attachments/assets/f3785d11-7206-4851-9aab-a92b0c67b26a" />
+
+<img width="800" height="600" alt="EP7_PSU_replacement_box_2026-Jan-28_02-31-21PM-000_CustomizedView48688933475_png" src="https://github.com/user-attachments/assets/e57072b2-e359-4584-a86c-64053e667e69" />
