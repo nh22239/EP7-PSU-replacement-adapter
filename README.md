@@ -1,12 +1,12 @@
-## EP7 adapter
+# EP7 adapter
 
 A friend of mine found a Studiomaster Trilogy 166 mixing desk at a tip sale, unfortunately it came without it's original power supply. My friend sent me the electrical diagrams for the power supply and asked me if I could build one, but that would be too much of a job, so I offered to make a MacGyver version.
 
-# Requirements
+## Requirements
 
 The original power supply, called EP7, takes mains power and spits out +/-17V (900mA) and 48V (100mA) through a 5-pin 240-degree dip jack. This is somewhat awkward, but I have a solution....
 
-# Solution
+## Solution
 
 I will take two +17V DC power supplies, and one +48V power supply, and build a circuit that combines these into the dip jack that my friend's mixing desk wants.
 
