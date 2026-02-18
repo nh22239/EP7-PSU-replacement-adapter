@@ -22,3 +22,8 @@ Some of these additions may be useless, and there may be some sensible features 
 <img width="1515" height="861" alt="EP7 PSU replacement" src="https://github.com/user-attachments/assets/f3785d11-7206-4851-9aab-a92b0c67b26a" />
 
 <img width="849" height="554" alt="image" src="https://github.com/user-attachments/assets/0bccd843-d1d9-4dd2-94bb-62c9c795c5e2" />
+
+
+## UPDATE 18/02/25
+
+Big oops... capacitor C6 is the wrong way round here, it exploded on my finger when I plugged it in... In addition, the DC jacks I bought are wired differently to the standard ones in KiCad... so here I am with a stinging finger, cutting tracks and throwing new wires. Updated circuit diagram to come.
